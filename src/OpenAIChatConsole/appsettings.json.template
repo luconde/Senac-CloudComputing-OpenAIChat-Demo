@@ -1,0 +1,5 @@
+﻿{
+  "OpenAI": {
+    "AppKey": "<Insira aqui a chave API do OpenAI>"
+  }
+}
